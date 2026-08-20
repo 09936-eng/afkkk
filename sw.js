@@ -3,8 +3,8 @@ const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  './icon-192×192.png',
-  './icon-512×512.png'
+  './icon-192.png',
+  './icon-512.png'
   // หากมีไฟล์ CSS/JS หรือรูปภาพอื่นๆ ให้ใส่ path เข้ามาที่นี่เพิ่ม เช่น './style.css', './script.js'
 ];
 
